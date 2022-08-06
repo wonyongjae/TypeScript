@@ -1,0 +1,9 @@
+npm init -y  
+
+npm i -D ts-node
+
+npm i -D typescript 
+
+npm i nodemon
+
+npm i -D @types/node
