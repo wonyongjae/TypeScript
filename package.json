@@ -23,8 +23,9 @@
     "url": "https://github.com/wonyongjae/ts/issues"
   },
   "homepage": "https://github.com/wonyongjae/ts#readme",
-  "description": "",
   "dependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "main": "index.js",
+  "description": ""
 }
